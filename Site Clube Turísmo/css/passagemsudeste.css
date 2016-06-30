@@ -1,0 +1,56 @@
+body{
+background-color: #3399CC;
+}
+/* Usamos "#" para id, "." usamos para classe, o body não precisa de nenhum desses dois  */
+#container{
+width: 900px;
+height: 800px;
+background-color: white;
+margin-left: 255px;
+margin-right: auto;
+
+}
+#rodape{
+height: 95px;
+margin-top:50px;
+Text-decoration: none;
+}
+
+
+
+#lateral {
+width: 160px;
+height: 800px;
+background-color: #E8E8E8;
+float: left;
+margin-left: 90px;
+}
+
+}
+
+#logo_rodape{
+margin-top: 25px;
+}
+
+.texto_link{
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: white;
+Text-decoration: none;
+}
+#a{
+width: 400px;
+height: 170px;
+background-color: white;
+float: left;
+margin-left: 10px;
+
+}
+#b{
+width: 500px;
+height: 170px;
+background-color: white;
+float: left;
+margin-left:70px;
+
+}

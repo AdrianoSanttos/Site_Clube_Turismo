@@ -1,0 +1,48 @@
+<html>
+<head>
+<title> Pontos Turísticos do Nordeste </title>
+<body>
+<p><h2><center>PONTOS TURÍSTICOS DO NORDESTE – DICAS DE VIAGEM</center></h2></p>
+<dl>
+<p><strong><dd>PRAIAS DO NORDESTE </strong>– O nordeste do Brasil tem uma gama de pontos turísticos maravilhosa. São praias, dunas<br />
+de areia, cidades históricas que deixam os turistas admirados. As cidades do litoral são as mais conhecidas e visitadas, <br />
+como no caso de Porto de Galinhas, Natal, Porto Seguro, Aracajú, Fortaleza, Maceió, Recife, Salvador, João Pessoa, <br />
+entre outras.</dd></p>
+</dl>
+<p align="center"> <img src="imagens/nordeste01.jpg"></p>
+
+<dl><p><h2><dd>PONTOS TURÍSTICOS DO NORDESTE</dd></h2></p></dl>
+<dl>
+<dd><p>Um dos <b>locais mais bonitos do Nordeste</b> é o <b>Parque Nacional dos Lençóis Maranhenses.</b> A sensação de ficar no <br />
+local é a de estar num Oásis. A areia branquinha, as águas cristalinas dão um aspecto mágico ao lugar. Os lençóis ficam<br />
+localizados a 260 km de São Luís, capital do Maranhão. Você pode chegar à localidade por carro pela BR 135, ou de <br />
+barco pelo Rio Preguiças.</p></dd>
+
+<dd><p>As <b>cidades históricas </b>também são um capítulo a parte. Salvador é a mais visitada delas. Na capital baiana você pode <br />
+visitar a Baía de Todos os Santos, o Pelourinho, o Centro Histórico, conhecer o elevador Lacerda, a Igreja Nosso Senhor <br />
+do Bonfim. A cidade tem praias para todos os gostos. Desde as mais calmas até os mares mais bravos e agitados. <br />
+Salvador também não deixa a desejar quando o assunto são os restaurantes, baladas e bares.</p></dd>
+
+<dd><p>Outras <b>cidades belas</b> são Recife, Olinda e São Luís. Nelas os ritmos que agitam as comemorações são o frevo e o <br />
+maracatu, com carnaval de marchinha (Galo da Madrugada) e bonecos gigantes (mais conhecidos são os Bonecos de <br />
+Olinda). Por isso não deixe de conhecer a cultura local, afinal é imperdível.</p></dd>
+
+<dd><p>A <b>prática de Ecoturismo</b> também está presente no <b>Nordeste</b>. Prova disso são locais como <b>Chapada da Diamantina <br />
+na Bahia</b>, ou o <b>Parque Nacional da Serra da Capivara no Piauí.</b></p></dd>
+
+<dd><p>Mas se você deseja fazer um passeio pelas <b>praias do Nordeste</b>, pode usar como transporte o famoso Buggy. Em <br />
+locais como <b>Porto de Galinhas</b>, o passeio pode ser feito com até quatro pessoas e se inicia no começo da manhã e vai <br />
+até o fim da tarde. Você terá a oportunidade de passar por várias praias como Maracaípe, Gâmboa, Muro Alto e até <br />
+passear pelas piscinas naturais de jangada.</p></dd>
+
+<dd><p>Nossa dica é contratar donos de buggys que oferecem o serviço por um preço bem mais baixo do que o indicado em <br />
+agências. No litoral do nordeste você encontra o Lontra, ou Eduardo, um conterrâneo animadíssimo que faz toda a rota <br />
+do Porto de Galinhas, Praia dos Carneiros, Calhetas, Banho de Argila, Cachoeira do Urubu, além de agilizar os traslados <br />
+para você que quer conforto, diversão por um bom preço.</p></dd>
+</dl>
+
+<h3><p align="center"><a href="homenordeste.html">Voltar a Home Nordeste</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+</body>
+</html>

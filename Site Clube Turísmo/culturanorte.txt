@@ -1,0 +1,43 @@
+<html>
+<head><title>Univerço de Culturas</title></head>
+<body bgcolor="999980">
+<h2><p align="center"><font color="ffddaa">Tudo começou...</font></p></h2>
+
+
+<h4>Muito se fala sobre o Amazonas, mas será que todos sabem um pouco de sua história? Na verdade, o estado foi ''descoberto'' por navegante espanhol Francisco Orellana em uma travessia no Rio Amazonas no século XVI - não é à toa que o rio é o grande protagonista da história local.
+<br> A terra antes desconhecida foi aos poucos ganhando forma com a civilização trazida por eles e, posteriormente, coube aos portugueses colonizá-la. Portugal tinha uma missão bastante simples para realizar em território brasileiro: catequizar os índios, aprisioná-los e explorá-los.<br><br><br>
+
+Em 1775, criou-se então a Capitania de São José do Rio Negro com a capital na aldeia de Mariuá, equivalente ao estado atual do Amazonas. Posteriormente, a capital foi transferida para Barra do Rio Negro justamente pela proximidade dos rios Negro e Solimões - assim, seria muito mais fácil para escoar produtos. Logo, em 1856, o nome da capital mudou e passou a ser tal como hoje, Manaus. Em 1967, foi criada a Zona Franca de Manaus, um importante parque industrial que além de contribuir para a economia, também visa proteger a Floresta Amazônica.</h4><br>
+
+<h2><p align="center"><font color="ffddaa">Parintins, uma cidade</font> <font color="ee0000">vermelha</font><font color="ffddaa">e</font> <font color="0000ff">azul.</font></p></h2>
+
+<h4><p align="center">Festival Folclórico de Parintins,</p></h4><br>
+
+<h4>Garantido e Caprichoso, já ouviu falar deles? Sem dúvidas, ao visitar o estado você vai entender a importância destes personagens para os amazonenses. Eles são os tradicionais bois do Festival de Bumbás de Parintins, um município próximo a Manaus, localizado na Baixa Amazonas - diga-se de passagem, a cidade mais festeira do estado. A competição gira em torno de lendas locais com bois, pajés, botos, Curupira...
+
+O evento é símbolo do folclore regional e é responsável pela vinda de inúmeros turistas de outros países só para conhecer este desfile que retrata os aspectos indígenas. De 28 a 30 de junho (é sempre esta data, não importa o dia da semana em que caia), Parintins recebe as cores azul (Caprichoso) e vermelho (Garantido) num verdadeiro show de cores, luzes e fantasias no palco do Bumbódromo.<br><br><br><br>
+
+
+<h2><p align="center"><font color="ffddaa">Nasce Belém em 12 de janeiro de 1616.</font></p></h2>
+
+
+<h4>Belém nasceu após expedições da família real portuguesa em busca de novos domínios na foz do Rio Amazonas. O município foi fundado em 12 de janeiro de 1616.<br> Foi o capitão-mor Francisco Caldeira Castelo Branco quem aportou às margens da baía de Guajará para garantir o comando do novo território e defendê-lo do ataque de corsários ingleses e holandeses.<br>
+O povoamento da capital paraense se originou na margem direita da foz do Rio Guamá, no ponto em que desagua no Guajará. Lá, foi erguido estrategicamente o forte do Presépio para proteger a cidade. Após a construção do colégio e da igreja dos jesuítas, surgiram os primeiros habitantes.<br>
+Com a estrutura pronta, Santa Maria do Grão Pará tornou-se a capital do Estado do Maranhão e do Grão Pará, em 1751. O local, que envolvia todo o extremo Norte do Brasil, passou a se chamar Santa Maria de Belém do Grão-Pará.</h4> <br>
+
+
+<h2><p align="center"><font color="ffddaa">Uma terra de culturas.</font></p></h2>
+
+
+
+<h4>Imagine uma localidade que faz jus a sua cultura. Belém é assim! O turista chega e já sente o clima e a força das raízes culturais no ar. Os nativos dão um show nas apresentações, sejam elas referentes a música, dança ou lendas. Não há quem resista e não arrisque um passo do carimbó, siriá e lundu ou se encante pelo colorido das roupas típicas. É contagiante.<br>
+Diferente de muitas cidades, a cultura paraense é muito fácil de ser notada, seja pela forma de falar das pessoas, pelos traços marcantes da cultura indígena ou simplesmente pelas maravilhosas frutas da região.
+<br> Para quem não sabe, há registros que mostram a presença de 32 povos no território paraense, com aproximadamente 16 mil índios, contribuindo assim, para o desenvolvimento de artesanatos inspirados na cultura indígena.</h4><br>
+
+
+<h3><p align="center"><a href="homenorte.html">Voltar a Home Norte</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+
+</body>
+</html>

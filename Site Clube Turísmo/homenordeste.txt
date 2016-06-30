@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Nordeste Home</title>
+<link href="css/homenordeste.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="container"> 
+<h1><font color="red"><center><b>NORDESTE</b></center></font></h1>
+<hr width="1000px" size="3px" color="#4682B4">
+<p><center><a href="home.html" target="_blank"><img src="imagens/homenordeste.jpg" title="Nordeste"></a></center></p>
+
+<hr width="1000px" size="3px" color="#4682B4">
+
+<div id="rodape">
+&nbsp &nbsp &nbsp <a href="nordestecultura.html" title="Cultura"><img src="imagens/botaocultura.png" title="Cultura"></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+&nbsp <a href="nordestepontosturisticos.html" title="Pontos Turísticos"><img src="imagens/botaoturistico.png" title="Pontos Turísricos"></a></b>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp <a href="passagensnordeste.html" title="Passagens"><img src="imagens/botaopassagens.png" title="Passagens"></a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
+&nbsp <a href="home.html" title="Passagens"><img src="imagens/botaohome.png" title="Home"></a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+
+</div>
+
+</div>
+
+</body>
+</html>

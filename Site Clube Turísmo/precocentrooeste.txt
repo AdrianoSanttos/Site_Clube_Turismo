@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> Passagens Expresso Centro Oeste </title>
+<body>
+<p><h1><center>Expresso Centro Oeste: Horários de Passagens Rodoviárias</center></h1></p>
+
+<p><h3><center><font color="red">Atenção : confirme antes os horários diretamente com a empresa de ônibus.</font> </center></h3></p>
+
+<center><table border="1" cellspacing="0" cellpadding="7">
+<tr><td align="center" bgcolor="#6CA6CD"><b>Origem</b> </td><td align="center" bgcolor="#6CA6CD"> <b>Destino</b></td><td align="center" bgcolor="#6CA6CD"><b>Horário de Saída</b> </td><td align="center" bgcolor="#6CA6CD"><b>Horário de Chegada</b> </td><td align="center" bgcolor="#6CA6CD"><b>Data</b> </td><td align="center" bgcolor="#6CA6CD"><b> Valor</b></td></tr>
+<tr><td align="center"> São Paulo</td><td align="center"> Brasília</td><td align="center">21:00 </td><td align="center"> 08:00</td><td align="center"> 19/04/2012</td><td align="center">R$ 200,00 </td> </tr>
+<tr><td align="center">São Paulo </td><td align="center"> Brasília</td><td align="center"> 22:00</td><td align="center">09:00 </td><td align="center">19/04/2012 </td><td align="center">R$ 200,00 </td> </tr>
+<tr> <td align="center">São Paulo </td><td align="center"> Brasília</td><td align="center"> 23:00</td><td align="center"> 10:00</td><td align="center"> 19/04/2012</td><td align="center">R$ 200,00 </td></tr>
+<tr> <td align="center">São Paulo </td><td align="center">Cuibá </td><td align="center"> 22:00</td><td align="center"> 09:00</td><td align="center"> 19/04/2012</td><td align="center"> R$ 150,00</td></tr>
+<tr><td align="center"> São Paulo</td><td align="center"> Cuibá</td><td align="center">20:00 </td><td align="center"> 07:00</td><td align="center"> 19/04/2012</td><td align="center">R$ 150,00 </td> </tr>
+<tr><td align="center">São Paulo </td><td align="center">Cuibá </td><td align="center"> 21:00</td><td align="center"> 08:00</td><td align="center"> 19/04/2012</td><td align="center"> R$ 150,00</td> </tr>
+<tr><td align="center">São Paulo </td><td align="center"> Cuibá</td><td align="center">22:00 </td><td align="center">09:00 </td><td align="center"> 19/04/2012</td><td align="center"> R$ 150,00</td> </tr>
+<tr><td align="center"> São Paulo</td><td align="center">Cuibá </td><td align="center"> 23:00</td><td align="center"> 10:00</td><td align="center">19/04/2012 </td><td align="center">R$ 150,00 </td> </tr>
+<tr> <td align="center">São Paulo </td><td align="center"> Corumbá</td><td align="center"> 21:00</td><td align="center"> 08:00</td><td align="center">19/04/2012</td><td align="center">R$ 350,00 </td></tr>
+<tr><td align="center">São Paulo </td><td align="center"> Corumbá</td><td align="center">22:00  </td><td align="center">09:00 </td><td align="center">19/04/2012  </td><td align="center">R$ 350,00 </td></tr>
+<tr><td align="center">São Paulo </td><td align="center"> Corumbá</td><td align="center"> 23:00</td><td align="center">10:00 </td><td align="center"> 19/04/2012</td><td align="center"> R$ 350,00</td> </tr>
+<tr> <td align="center"> São Paulo</td><td align="center"> Corumbá</td><td align="center"> 20:00</td><td align="center"> 07:00</td><td align="center"> 19/04/2012</td><td align="center">R$ 350,00</td></tr>
+<tr><td align="center">São Paulo </td><td align="center">Corumbá </td><td align="center">21:00 </td><td align="center">08:00</td><td align="center">19/04/2012 </td><td align="center"> R$ 350,00</td> </tr>
+<tr> <td align="center"> São Paulo</td><td align="center"> Corumbá</td><td align="center"> 22:00</td><td align="center">09:00 </td><td align="center"> 19/04/2012</td><td align="center"> R$ 350,00</td></tr>
+<tr> <td align="center">São Paulo </td><td align="center"> Corumbá</td><td align="center">23:00 </td><td align="center">10:00</td><td align="center"> 19/04/2012</td><td align="center">R$ 350,00 </td></tr>
+<tr><td align="center"> São Paulo</td><td align="center"> Pirenópolis</td><td align="center">21:00 </td><td align="center">08:00 </td><td align="center">19/04/2012</td><td align="center">R$ 300,00 </td> </tr>
+<tr><td align="center"> São Paulo</td><td align="center"> Pirenópolis</td><td align="center"> 22:00</td><td align="center"> 09:00</td><td align="center">19/04/2012 </td><td align="center"> R$ 300,00</td> </tr>
+<tr> <td align="center">São Paulo </td><td align="center"> Pirenópolis</td><td align="center">23:00 </td><td align="center"> 10:00</td><td align="center">19/04/2012 </td><td align="center">R$ 300,00 </td></tr>
+<tr><td align="center"> São Paulo</td><td align="center">Goiânia </td><td align="center">21:00 </td><td align="center"> 08:00</td><td align="center">19/04/2012 </td><td align="center">R$ 250,00 </td> </tr>
+<tr> <td align="center"> São Paulo</td><td align="center">Goiânia</td><td align="center"> 22:00</td><td align="center">09:00 </td><td align="center">19/04/2012</td><td align="center"> R$ 250,00</td></tr>
+<tr><td align="center"> São Paulo</td><td align="center"> Goiânia</td><td align="center"> 23:00</td><td align="center"> 10:00 </td><td align="center"> 19/04/2012 </td><td align="center"> R$ 250,00</td> </tr>
+
+</table>
+</center>
+<br />
+<br />
+<br />
+<br />
+
+<h3><p align="center"><a href="homecentrooeste.html">Voltar a Home Centro Oeste</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+</body>
+</html>

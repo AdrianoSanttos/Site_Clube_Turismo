@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Centro Oeste Home</title>
+<link href="css/homenordeste.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div id="container">
+
+<h1><font color="red"><center><b>CENTRO OESTE</b></center></font></h1>
+<hr width="1000px" size="3px" color="black">
+<p><center><a href="home.html"><img src="imagens/homecentrooeste.jpg" title="Centro Oeste"></a></center></p>
+
+<center><font color="red" size="6" align="left"> <b>&nbsp &nbsp &nbsp<a href="centrooestecultura.html" title="Cultura">Cultura</a></b></font> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+<font color="red" size="6" align="left"> <b>&nbsp<a href="centrooesteturismo.html" title="Pontos Turísticos">Pontos Turísticos</a></b></font>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+<font color="red" size="6" align="left"> <b>&nbsp<a href="precocentrooeste.html" title="Passagens">Passagens</a></b></font>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="home.html" title="Home Page">Voltar a Home</a>
+
+
+
+</div>
+
+</body>
+</html>

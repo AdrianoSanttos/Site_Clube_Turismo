@@ -1,0 +1,120 @@
+<html>
+<head>
+<title> Cultura da Região Nordeste </title>
+<body>
+<p><h1><center>Cultura da Região Nordeste</center></h1></p>
+
+<dl>
+<p><dd><font size="4">Os estados que compõem a região Nordeste são: Alagoas, Bahia, Ceará, Maranhão,<br />
+Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe. Esse complexo regional <br />
+apresenta grande diversidade cultural, composto por manifestações diversificadas. <br />
+Portanto, serão abordados alguns dos vários elementos culturais da região em destaque:</font> </dd></p>
+</dl>
+
+<p><dd><font size="4">O carnaval é o evento popular mais famoso do Nordeste, especialmente em Salvador, <br />
+Olinda e Recife. Milhares de turistas são atraídos para o carnaval nordestino, que se <br />
+caracteriza pela riqueza musical e alegria dos foliões.</font> </dd></p>
+</dl>
+
+<center><img src="imagens/nordeste02.jpg"><br />
+<font size="2">Carnaval de Olinda</font></center>
+
+<dl><p><h2><dd>PONTOS TURÍSTICOS DO NORDESTE</dd></h2></p></dl>
+<dl>
+<dd><p>O coco também é conhecido por bambelô ou zamba. É um estilo de dança muito praticado <br />
+nos estados de Alagoas, Paraíba, Pernambuco e Rio Grande do Norte. A dança é uma <br />
+expressão do desabafo da alma popular, da gente mais sofrida do Nordeste brasileiro. É <br />
+uma dança de roda ou de fileiras mistas, de conjunto, de pares, que vão ao centro e <br />
+desenvolvem movimentos ritmados. </p></dd>
+
+<dd><p>O maracatu é originário de Recife, capital de Pernambuco, surgiu durante as procissões <br />
+em louvor a Nossa Senhora do Rosário dos Negros, que batiam o xangô, (candomblé) o <br />
+ano inteiro. O maracatu é um cortejo simples, inicialmente tinha um cunho altamente <br />
+religioso, hoje é uma mistura de música primitiva e teatro. Ficou bastante conhecido no <br />
+Brasil a partir da década de 1990, com o movimento manguebeat, liderado por Chico <br />
+Sciense e Nação Zumbi, Mundo Livre S/A, entre outros. </p></dd>
+
+<dd><p>O Reisado, ou Folia de Reis, é uma manifestação cultural introduzida no Brasil colonial, <br />
+trazida pelos colonizadores portugueses. É um espetáculo popular das festas de natal e <br />
+reis, cujo palco é a praça pública, a rua. No Nordeste, a partir do dia 24 de dezembro, <br />
+saem os vários Reisados, cada bairro com o seu, cantando e dançando. Os participantes <br />
+dos Reisados acreditam ser continuadores dos Reis Magos que vieram do Oriente para <br />
+visitar o Menino Jesus, em Belém. </p></dd>
+
+<dd><p>As festas juninas representam um dos elementos culturais do povo nordestino, é <br />
+composta por música caipira, apresentações de quadrilhas, comidas e bebidas típicas, <br />
+além de muita alegria. Consiste numa homenagem a três santos católicos: Santo Antônio, <br />
+São João e São Pedro. As principias festas juninas da região Nordeste ocorrem em <br />
+Caruaru (PE) e Campina Grande (PB).</p></dd>
+
+<center><img src="imagens/nordeste03.jpg"><br />
+<font size="2">Festa Junina em Campina Grande</font></center>
+
+<dd><p>Bumba meu boi é um festejo que apresenta um pequeno drama. O dono do boi, um <br />
+homem branco, presencia um homem negro roubando o seu animal para alimentar a <br />
+esposa grávida que estava com vontade de comer língua de boi. Matam o boi, mas depois, <br />
+é preciso ressuscitá-lo. O espetáculo é representado por um boi construído em uma <br />
+armação de madeira coberta de pano colorido. Ao final, o boi é morto e em seguida, <br />
+ressuscitado. </p></dd>
+
+<dd><p>O frevo surgiu através da capoeira, pois o capoeirista sai dançando o frevo à frente dos <br />
+cordões, das bandas de música. É uma criação de compositores de música ligeira, <br />
+especialmente para o carnaval. Com o passar do tempo, o estilo ganhou um gingado <br />
+composto por passos soltos e acrobáticos. </p></dd>
+
+<dd><p>Quilombo é um folguedo tradicional alagoano, tema puramente brasileiro, revivendo a <br />
+época do Brasil Colônia. Dramatiza a fuga dos escravos que foram buscar um local seguro <br />
+para se esconderem na serra da Barriga, formando o Quilombo dos Palmares. </p></dd>
+
+<dd><p>A capoeira foi introduzida no Brasil pelos escravos africanos, é considerada uma <br />
+modalidade de luta e também de dança. Rapidamente adquiriu adeptos nos estados <br />
+nordestinos, principalmente na Bahia e Pernambuco. O instrumento utilizado durante <br />
+as apresentações de capoeira é o berimbau, constituído de arco, cabaça cortada, caxixi <br />
+(cestinha com sementes), vareta e dobrão (moeda).</p></dd>
+
+<center><img src="imagens/nordeste04.jpg"><br />
+<font size="2">Roda de Capoeira</font></center>
+
+<dd><p>A festa de Iemanjá é um agradecimento à Rainha do Mar. A maior festa de Iemanjá ocorre <br />
+na Bahia, no Rio Vermelho, dia 2 de fevereiro. Todas as pessoas que têm “obrigação” com <br />
+a Rainha do Mar se dirigem para a praia. Nesse evento cultural há o encontro de todos os <br />
+candomblés da Bahia. Levam flores e presentes, principalmente espelhos, pentes, joias e perfumes. </p></dd>
+
+<dd><p> </p>Lavagem do Bonfim é uma das maiores festas religiosas populares da Bahia. É realizada <br />
+numa quinta- feira do mês de janeiro. Milhares de romeiros chegam ao Santuário do <br />
+Senhor do Bonfim, considerado como o Oxalá africano. Existem também promessas <br />
+católicas de “lavagens de igrejas”, nas quais os fiéis lavam as escadarias da igreja <br />
+com água e flores. </dd>
+
+<dd><p>O Candomblé consiste num culto dos orixás que representam as forças que controlam a <br />
+natureza e seus fenômenos, como a água, o vento, as florestas, os raios, etc. É de origem <br />
+africana é foi introduzido no país pelos escravos negros, na época do Brasil colonial. Na <br />
+Bahia, esse culto é chamado de candomblé, em Pernambuco, nomeia-se xangô, no <br />
+Maranhão, tambor de menina. </p></dd>
+
+<center><img src="imagens/nordeste05.jpg"><br />
+<font size="2">Candomblé</font></center>
+
+<dd><p>A Literatura de Cordel é uma das principais manifestações culturais nordestinas, consiste <br />
+na elaboração de pequenos livros contendo histórias escritas em prosa ou verso, sobre os <br />
+mais variados assuntos: desafios, histórias ligadas à religião, política, ritos ou cerimônias. <br />
+É o estilo literário com o maior número de exemplares no mundo. Para os nordestinos, a <br />
+Literatura de Cordel representa a expressão dos costumes regionais.  </p></dd>
+
+<dd><p>A culinária do Nordeste é bem diversificada e destaca-se pelos temperos fortes e comidas <br />
+apimentadas. Os pratos típicos são: carne de sol, buchada de bode, sarapatel, acarajé, <br />
+vatapá, cururu, feijão verde, canjica, tapioca, peixes, frutos do mar, etc. As frutas também <br />
+são comuns, como por exemplo: manga, araçá, graviola, ciriguela, umbu, buriti, cajá e macaúba.  </p></dd>
+
+<dd><p>O artesanato da região Nordeste é muito variado, destacam-se as redes tecidas, rendas, <br />
+crivo, produtos de couro, cerâmica, madeira, argila, as garrafas com imagens produzidas <br />
+de areia colorida, os objetos feitos a partir da fibra do buriti, entre outros. </p></dd>
+
+
+</dl>
+
+<h3><p align="center"><a href="homenordeste.html">Voltar a Home Nordeste</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+</body>
+</html>

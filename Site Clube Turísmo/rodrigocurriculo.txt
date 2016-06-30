@@ -1,0 +1,60 @@
+<html>
+<head>
+<title> Meu Currículo </title>
+</head>
+<body bgcolor= "#F5F5DC">
+
+<p><h1><center><b>Rodrigo Firmino de Barros</b></center></h1></p>
+<hr width= "70%" align= "center" size= "2" Color= "black"><br>
+<b>Endereço: </b>Rua Doutor José da Costa, 55 Bloco C3 Apto: 11<br>
+<b>Bairro:</b> Ipiranga – São Paulo – SP (divisa com São Caetano do Sul)<br>
+<b>Tel. Cel.:</b> (11) 7870-4156<br>
+<b>E-mail: </b>rdgcph05@hotmail.com<br>
+
+<p><b><h3>Experiência Profissional:</h3></b></p>
+<b>Empresa:</b> Del Rio Contabilidade<br>
+<b>Cargo:</b> Auxiliar Escritório<br>
+<b>Funções:</b> Lançamentos de Notas Fiscais de Entrada, Saída e ISS, Apuração de Impostos(ICMS,IPI,PIS,COFINS,IRPJ,CSLL,ISS,DAS e Retenções) Entrega de Gia,DES,DCTF e DSN-SP <br />
+<p><b>Período:</b> 09/2008 – 07/2009</p>
+
+<p><b><h3>Experiência Profissional:</h3></b></p>
+<b>Empresa:</b> Confirp Sul consultoria contabil ltda<br>
+<b>Cargo:</b> Auxiliar Fiscal<br>
+<b>Funções:</b> Entrega de Obrigações acessórias (NOVA GIA,GISS,DES,DACON,DCTF,DIRF,DIPJ,RAIS,SINTEGRA.) <br />
+<p><b>Período:</b> 02/2010 – 03/2011</p>
+
+<p><b><h3>Experiência e Habilidades Pessoais:</h3></b></p>
+<ul>
+<li>Criativo, dinâmico, eficiente, raciocínio rápido, comprometimento, responsabilidade, e senso de<br>
+organização para execução e coordenação de tarefas.</li><br>
+<li>Facilidade no relacionamento com clientes, superiores, equipe e demais colegas de trabalho.</li><br>
+<p><li>Detalhista e observador, com muita vontade de aprender e crescer profissionalmente.</li></p>
+</ul>
+
+<p><b><h3>Formação Acadêmica:</h3></b></p>
+
+Ensino Superior (Cursando 1º Semestre)<br />
+Curso: Sistemas de Informação<br />
+Faculdade  Anhanguera<br />
+<br />
+
+<p><b><h3>Cursos:</h3></b></p>
+
+Pacote Office – Avançado <br>
+<b>Local:</b> Bitcompany<br />
+<br />
+Hardwere Montagem e Manutenção de Micro <br />
+<b>Local:</b>Microcamp<br />
+<br />
+Escrituração Fiscal<br />
+<b>Local:</b> SENAI<br />
+<br />
+Inglês Básico<br />
+<b>Local: Microcamp</b> 
+<br />
+
+
+
+
+</body>
+</html>

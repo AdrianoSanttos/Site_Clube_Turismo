@@ -1,0 +1,62 @@
+<html>
+<head>
+<title> Região Centro-Oeste do Brasil </title>
+<body>
+
+
+<p><h1><center>Distrito Federal</center></h1></p>
+
+<dl>
+
+<p><dd><font size="4">O Distrito Federal compreende a cidade de Brasília, além de suas regiões administrativas, que estão localizadas fora do plano piloto. Brasília, capital do Brasil, é uma cidade moderna que além de centro político, é um dos principais centros financeiros do país. A cidade recebe grandes eventos, e possui uma boa rede hoteleira. É uma cidade planejada, e alguns de seus principais pontos turísticos são obras de Oscar Niemeyer.</font></dd></p>
+
+</dl>
+
+<center><img src="imagens/Distrito Federal.jpg"><br />
+<font size="2">Eixo Monumento em Brasília</font></center>
+
+<p><h1><center>Goiás</center></h1></p>
+
+<dl>
+
+<p><dd><font size"4">Goiás é um estado muito conhecido por suas belezas naturais. Entre elas, recebem destaque o Parque Nacional da Chapada dos Veadeiros e o Parque Nacional das Emas, que representam a conservação do cerrado. A prática de mergulho é realizada no Lago de Serra da Mesa. As águas termais são encontradas principalmente em Caldas Novas e Rio Quente. Quanto ao aspecto cultural, o patrimônio histórico pode ser encontrado em Pirenópolis, Goiás, Niquelândia e Corumbá de Goiás, que também possuem cachoeiras. Grutas existem praticamente em todas as cidades do Norte Goiano. Destacam-se também a comunidade quilombóla de Cavalcante e a comunidade exotérica de Alto Paraíso de Goiás. Em Ivolândia encontra-se a cidade de Pedra. A cidade de Paraúna também conta com formações rochosas. A cidade de Rio Verde possui diversos pontos turíscos.<dl><br />
+A Capital Goiânia possui, no seu centro, o maior acervo do estilo patrimonial em art decó no Brasil. Oferece atrativos culturais, além das feiras diárias e da Feira Hippie de Goiânia, aos domingos, a maior do gênero na America do Pinto. O Parque Indígena do Xingu (PIX) localiza-se na região nordeste do Estado do Mato Grosso, na porção sul da Amazônia brasileira.</font></dd></p>
+
+</dl>
+
+<center><img src="imagens/Goias.jpg"><br />
+<font size="2">Vale do rio preto</font></center>
+
+<p><h1><center>Mato Grosso</center></h1></p>
+
+<dl>
+
+<p><dd><font size"4">Sua capital é Cuiabá que hoje esta focada no turismo de negócios sendo destino de vários congressos e feiras de devido a sua ótima estrutura hoteleira e de centros de eventos.<dl><br />
+A cidade de Chapada do Guimarães, distante 65 km da capital, é o principal destino dos turistas que vêm a Mato Grosso. O grande atrativo é a natureza exuberante formada por paredões com formações rochosas, grutas, mirantes e cachoeiras, que juntamente com a flora e a fauna, principalmente os pássaros, atraem muitos turistas brasileiros e estrangeiros.O Parque Nacional de Chapada dos Guimarães reune todas essas atrações e tem uma boa infraestrutura com quiosques, restaurantes e guias para receber bem o turista.</font></dd></p>
+</dl>
+
+<dd><p>Mais ao sul do estado, destacam-se os balneários de águas quentes naturais localizados nas cidades de Juscimeira e Jaciara, onde também está localizada a Cachoeira da Fumaça, complexo de rios e cachoeiras muito procurados para a prática do rafting.
+
+<dd><p>A cidade de Nobres fica a 120 km de Cuiabá e disponibiliza rios de águas transparentes para a prática da flutuação onde pode-se observar diversas espécies de peixes.
+
+<dd><p>Além de tudo isso, ainda temos uma das entradas para o Pantanal na cidade de Poconé e também fazemos parte da Floresta Amazonica, destacando o Parque Estadual Cristalino.
+
+
+<center><img src="imagens/matogrosso.jpg"><br />
+<font size="2">Igreja do Rosário</font></center>
+
+<p><h1><center>Mato Grosso do Sul</center></h1></p>
+
+
+
+<p><dd><font size"4">O Mato Grosso do Sul é mundialmente conhecido por sua biodiversidadeo estado possui várias diversidades,um bom lugar para viajar!,Encontrada principalmente no Complexo do Pantanal e no Parque Nacional da Serra da Bodoquena. Sua capital é Campo Grande e suas principais cidades turísticas são Bonito, Jardim e Bodoquena localizados no Parque Nacional da Serra da Bodoquena; cidades de Corumbá, Aquidauana, Anastácio e Porto Murtinho no Complexo do Pantanal; Ponta Porã e Bela Vista na fronteira com o Paraguai, além das cidades de Rio Verde e Fátima do Sul.</font></dd></p>
+
+
+<center><img src="imagens/matogrossodosul.jpg"><br />
+<font size="2">Casario do Porto Geral de Corumbá</font></center>
+
+<h3><p align="center"><a href="homecentrooeste.html">Voltar a Home Centro Oeste</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head><title></title></head>
+<body bgcolor="#F0FFF0">
+
+<h3><p align="center" > Preços mais em conta do dia, IMPERDIVEL !!! <p></h3>
+
+<center><table border="1">
+  <tr>
+    <td><h3><font color="black">São Paulo uma cidade onde qualquer pessoa gostaria de morar,<br> com lugares encriveis para conhecer e explorar .</font></h3></td> <td><font color="#2F4F4F"><h3> 5dias - Hotel + Viagem<br> -- R$ 600,00 --</h3></font></td>
+</tr>
+<tr>
+<td><img src="imagens/Museu do Ipiranga.jpg"></td><td></td>
+</tr>
+<tr>
+    <td><h3><font color="black">Rio de Janeiro cidade mundialmente famosa por diversas belezas, <br> uma delas o Cristo Redentor uma das 7 maravilhas do mundo .</font></h3></td> <td><font color="#2F4F4F"><h3> 3dias - Hotel 5 ESTRELAS + Viagem<br> -- R$ 980,00 --</h3></font></td>
+</tr>
+<tr>
+<td><img src="imagens/Praia RJ.jpg"></td><td></td>
+</tr>
+<tr>
+    
+</table></center>
+<br />
+
+<h3><p align="center"><a href="homesudeste.html">Voltar a Home Sudeste</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+
+</body>
+</html>

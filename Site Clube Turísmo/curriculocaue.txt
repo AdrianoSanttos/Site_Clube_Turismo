@@ -1,0 +1,52 @@
+
+<html>
+    <head>
+         <title> Curriculum </title> 
+    </head>
+
+<body bgcolor="#FFA500"> 
+<h2><p align="center">Cauê Augusto Costa</p></h2>
+ <p align="center">Nascimento: 19 de fevereiro de 1994</p>
+ <p align="center">Idade: 18 anos</p>
+ <p align="center">Brasileiro - Solteiro</p>
+ <p align="center">São Caetano do Sul – São Paulo</p>
+ <p align="center">( 11 ) 2311-2156 Casa</p>
+ <p align="center">( 11 ) 8321-1004 Celular</p> 
+ <p align="center">caueaugustocosta@hotmail.com</p>
+			
+<h4><p>Objetivo</p></h4>
+
+<p align="center">Técnico de computador T.I.</p>
+<h4>  Formação Acadêmica </h4></p>
+
+<p align="center">Anhanguera – São Caetano do Sul</p>
+<p align="center">Sistemas de Informação - Cursando (1º semestre)</p>
+<p></p>
+<p align="center">E. E. Joana Motta – São Caetano do Sul / SP</p>
+<p align="center">2007 - 2011 – Ensino médio Concluído</p>
+<p></p>
+<p align="center">E. E. Luiz Washington Vita – Mauá / SP</p>
+<p align="center">2005 - 2007 – Ensino Fundamental Concluído</p>
+<p></p>
+	                              
+<p align="center"><h4> Cursos Extracurriculares</p>
+
+<p align="center">Instituição de Ensino – Mauá</p>
+<p align="center">Windows / Word / Excell / Internet / Power Point / HTML</p>
+
+<p align="center"><h4> Qualificações </h4></p>
+
+Sou uma pessoa proativa, Muito dedicado, aprendo rápido o serviço, trabalho bem em equipe, Tenho conhecimento básico em Linux, Windows XP, Vista, Seven, Infra Estrutura de Redes, Montagem e Manutenção de computadores, Servidores.</p>
+
+<p align="center"><h4> Experiência Profissional </h4></p>
+
+<li>Pref. Mun. São Caetano do Sul (EMEI ANGELA MASSEI) – 07/10 – 06/11. </br>
+Conjuv (Agente Jovem): Atuava como Assistente da diretoria de escola infantil, e de seus funcionários, professores e até funcionários 
+de outras funções, ajudando em diversas tarefas até mesmo monitorando alunos de 2 a 5 anos.</li>
+<p></p>
+<li>Ordem do Advogados do Brasil– 07/11 – 06/12 (ATIVO). </br>
+Auxiliar em Atividades Gerais: Trabalho atendendo e recepcionando advogados e cidadãos em gerais, esclarecendo duvidas e executando 
+copias de processos, responsável pelo caixa, e pela sala de informática tendo como função ajudar se necessários, advogados a montar 
+petições, procurações, guias em geral e até mesmo auxiliando a usar Word, Excel e Internet Explore.</li>
+     </body>
+     </html>

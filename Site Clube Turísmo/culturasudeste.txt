@@ -1,0 +1,25 @@
+<html>
+<head><title>Univerço de Culturas</title></head>
+<body bgcolor="#F8F8FF">
+<h2><p align="center">A Cultura do Sudeste.</font></p></h2>
+
+
+<h4>Minas Gerais, São Paulo, Rio de Janeiro e Espírito Santo são os estados que integram a região Sudeste do Brasil. As manifestações culturais são muito diversificadas, com grandes influências dos povos indígenas, africanos, europeus e asiáticos.<br>
+
+Entre os vários elementos da cultura do Sudeste, estão:<br>
+Carnaval – festa popular comemorada em todo o Brasil. No Rio de Janeiro é realizado o carnaval mais famoso do mundo, e atrai turistas brasileiros e estrangeiros para prestigiarem os desfiles das escolas de samba..<br>
+Batuque – dança africana que representa um ritual de fertilidade, sendo difundida nas cidades do interior paulista. A dança é realizada através de uma fileira de homens que fica a 15 metros de distância das mulheres, e, ao iniciar o ritual, os homens e as mulheres dão a “umbigada”, ou seja, o ventre da mulher bate na barriga do homem.<br>
+Samba de Lenço – é considerado o ancestral do samba cosmopolita. A utilização do lenço é uma forma de devoção a São Benedito. Apresenta aspectos similares ao jongo e o batuque. Sua dança é de origem africana, podendo ser praticada tanto no meio urbano (samba de salão) quanto na zona rural (samba de roda, samba campineiro e samba de lenço).<br> 
+Folia de Reis ou Reisado – folguedo que ocorre no período do natal, de 24 de dezembro a 6 de janeiro, dia dedicado aos Santos Reis. A formação das folias difere-se conforme o lugar, normalmente são grupos de rapazes que realizam uma cantoria. Os instrumentos utilizados são: cavaquinho, violão, pandeiro, pistão e tantã. É um costume de origem portuguesa em comemoração à festa do Divino ou dos Reis Magos.<br>
+Congada – a congada consiste na luta do Bem contra o Mal. O Bem é representado pelos cristãos, o Mal é o grupo de mouros. O Bem usa roupa azul, e o mal, vermelha. Há lutas, embaixadas, cantos, e sempre os cristãos vencem os mouros, que são batizados. E, todos juntos, fazem a festa em louvor a São Benedito, padroeiro dos negros em todo o Brasil.<br> 
+Ticumbi – consiste numa vertente da congada, praticada somente no Espírito Santo. São negros com trajes brancos e fitas coloridas. É uma manifestação guerreira dramática.<br>
+Dança de São Gonçalo – dança de origem portuguesa. É composta por duas fileiras, uma de homens e outra de mulheres, na qual as moças se vestem de branco, rosa ou azul. Cada fileira é encabeçada por dois violeiros que ditam o ritmo da dança. Os dançarinos ficam dando “voltas” que recebem nomes especiais, como marca passo, parafuso e casamento.<br> 
+Festa de Iemanjá – muito popular no Nordeste, em especial na Bahia, a Festa de Iemanjá é uma homenagem à principal entidade feminina do Candomblé, Umbanda e Macumba. Nessa manifestação cultural os devotos levam presentes (perfumes, bebidas flores, etc.) para a Rainha do Mar.<br>
+A culinária do Sudeste brasileiro é bem diversificada, e apresenta elementos da culinária indígena, dos escravos africanos e dos imigrantes europeus e asiáticos. Entre os principais pratos típicos da região estão: feijoada, feijão-tropeiro, farofa, cuscuz paulista, pizza, moqueca capixaba, angu, frango com quiabo, pão de queijo, cachaça de alambique, entre outros.<br>
+
+<h3><p align="center"><a href="homesudeste.html">Voltar a Home Sudeste</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+
+</body>
+</html>

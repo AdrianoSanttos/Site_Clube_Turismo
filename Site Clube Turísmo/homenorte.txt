@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Norte Home</title>
+</head>
+<body>
+<h1><font color="red"><center><b>NORTE</b></center></font></h1>
+<hr width="1000px" size="3px" color="black">
+<p><center><a href="home.html"><img src="imagens/homenorte.jpg" title="Norte"></a></center></p>
+
+<center><font color="red" size="6" align="left"> <b>&nbsp &nbsp &nbsp<a href="culturanorte.html" title="Cultura">Cultura</a></b></font> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+<font color="red" size="6" align="left"> <b>&nbsp<a href="pontosturisticosnorte.html" title="Pontos Turísticos">Pontos Turísticos</a></b></font>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+<font color="red" size="6" align="left"> <b>&nbsp<a href="preconorte.html" title="Passagens">Passagens</a></b></font>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="home.html" title="Home Page">Voltar a Home</a>
+
+</body>
+</html>

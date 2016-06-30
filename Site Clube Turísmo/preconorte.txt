@@ -1,0 +1,31 @@
+<html>
+<head><title>Preços e Promoções!</title></head>
+<body bgcolor="999990">
+<br><h4><u><p align="center">Preços que só nós podemos oferecer, e se você encontrar oferta mais barata, cobrimos a oferta e <br>você ainda leva um brinde!!! Corra! Esta esperando o que?</p></u></h4><br><br>
+
+<center><table border="1">
+  <tr>
+    <td><h3>Manaus, AM. Linda cidade com todo o contato com a natureza e conforto<br> de que precisa.</h3></td> <td align="center"><h3> 7dias - Viagem + hotel<br> -- R$ 900,00 --</h3></td>
+  </tr>
+  <tr>
+<td><img src="imagens/teatro.jpg"></td>
+  </tr>
+  <tr>
+<td><h3>Festa do Boi em Parintins, Grande festa que divide a cidade em 2 cores</h3></td><td align="center"><h3> 5 dias - Viagem + hotel + 2 entradas <br>ao Bumbódromo<br> -- R$ 1000,00 -- Em 3x sem juros</h3></font></td>
+  </tr>
+ <tr>
+<td><img src="imagens/garantido.jpg"></td>
+  </tr>
+ <tr>
+<td><h3>Belém,Para. Alem de belissima cidade praias maravilhosas, e um povo<br> muito hospitaleiro.</h3></td><td align="center"><h3>7dias - Viagem + hotel<br> --R$ 1200,00-- Em 4x sem juros<h3></td> 
+  </tr>
+ <tr>
+<td><img src="imagens/praia.jpg"></td>
+  </tr>
+</table></center><br>
+
+<h3><p align="center"><a href="homenorte.html">Voltar a Home Norte</p></h3>
+<h3><p align="center"><a href="home.html">Voltar a Home</p></h3>
+
+</body>
+</html>

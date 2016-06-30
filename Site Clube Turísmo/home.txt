@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Home</title>
+<link href="css/estilo.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="container"> 
+<center><a href="home.html"><img src="imagens/topohome.jpg" title="Home"></a></center>
+<hr width="1000px" size="3px" color="#4682B4">
+<p><center><a href="homenorte.html"><img src="imagens/norte.jpg" title="Norte"></a> &nbsp    <a href="homenordeste.html"><img src="imagens/nordeste.jpg" title="Nordeste"></a>  &nbsp  <a href="homecentrooeste.html"><img src="imagens/centrooeste.jpg" title="Centro Oeste"></a> </center></p>
+<p><center><a href="homesudeste.html"><img src="imagens/sudeste.jpg" title="Sudeste"></a>    &nbsp  <a href="homesul.html"><img src="imagens/sul.jpg" title="Sul"></a></center></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div id="rodape">
+<hr width="1000px" size="3px" color="#4682B4">
+<div id="a">
+<img src="imagens/clube.jpg" title="Todos os Direitos Reservados" id="logo_rodape">
+</a>
+</div>
+<div id="b">
+<dl align="right">
+<dt><p><font size="5"><b>Integrantes do Grupo:</b></font></p></dt>
+<dd><a href="adrianocurriculo.html" target="_blank" title="Currículo Adriano"class="texto_rodape">Adriano Vieira dos Santos<br /></a>
+<a href="curriculocaue.html" target="_blank" title="Currículo Cauê" class="texto_rodape">Cauê Augusto<br /></a>
+<a href="curriculoguilherme.html" target="_blank" title="Currículo Guilherme" class="texto_rodape">Guilherme Ribeiro<br /></a>
+<a href="curriculomatheus.html" target="_blanck" title="Currículo Matheus" class="texto_rodape">Matheus Corregiari<br /></a>
+<a href="rodrigocurriculo.html" target="_blanck" title="Currículo Rodrigo" class="texto_rodape">Rodrigo Firmino</a></dd>
+</dl>
+</div>
+
+
+</div>
+
+
+</body>
+</html>
